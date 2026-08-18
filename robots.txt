@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-d1g9wz.pulaucuansite.xyz/sitemap.xml
